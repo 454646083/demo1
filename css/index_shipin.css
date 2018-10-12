@@ -45,12 +45,13 @@
 	display: none;
 }
 .Popupvideo>li>.ovideo{
-	position: absolute;
-	top: 50px;
-	left: 50%;
-	margin-left: -320px;
 	height: 536px;
 	width:640px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -320px;
+	margin-top: -268px;
 	background: #FFFFFF;
 	z-index:100;
 }
