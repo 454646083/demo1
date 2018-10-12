@@ -1,10 +1,9 @@
-.neirong {
+﻿.neirong {
 	height: 472px;
 	width: 1226px;
 	margin: auto;
 	overflow: hidden;
 }
-
 .neirong_box {
 	width: 1226px;
 	height: 420px;
@@ -19,7 +18,6 @@
 	position: relative;
 	background: #FFFFFF;
 }
-
 .neirong_box>li {
 	border-top: 1px solid lightgreen;
 }
