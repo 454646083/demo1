@@ -7,7 +7,7 @@ $('#nav li').hover(function(){
 	
     $('.navli').slideUp(0);
     $(this).removeClass('current');
-//  $('.navli').stop();
+  $('.navli').stop();
    });
 
 $('.navli').hover(function(){
